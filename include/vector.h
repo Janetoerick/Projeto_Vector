@@ -1,7 +1,6 @@
 /**
  * @file vector.h
  * @author Janeto Erick
- * @author Julio Cesar
  * @brief Implementação da classe Vector em C++
 */
 
