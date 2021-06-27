@@ -1,7 +1,6 @@
 /**
  * @file iterator.h
  * @author Janeto Erick
- * @author Julio Cesar
  * @brief Implementação da classe Iterator em C++
 */
 
